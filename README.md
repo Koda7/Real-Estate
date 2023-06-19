@@ -1,8 +1,7 @@
 # Real Estate Database
-Data and Applications
 ## Introduction
 
- This database is of a Real Estate Agency which stores the information about the listed properties, their sellers and interested buyers. It can be used by interested buyers to look for a property according to their needs. We also store information about the agency’s agents who work as a mediator between the buyers and sellers of properties and also about the partner banks who provide financial assistance to the buyers.
+This database is for Real Estate Agency which stores the information about the listed properties, their sellers and interested buyers. It can be used by interested buyers to look for a property according to their needs. Information is also stored about the agency’s agents who work as a mediator between the buyers and sellers of properties and also about the partner banks who provide financial assistance to the buyers.
 
 ## Requirements
 
