@@ -5,7 +5,7 @@ This database is for Real Estate Agency which stores the information about the l
 
 ## Requirements
 
-1. Pyhton Modules required - PyMySql, Tabulate
+1. Python Modules required - PyMySql, Tabulate
 2. MySQL Server
 
 ## How to Install
